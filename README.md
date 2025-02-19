@@ -23,7 +23,7 @@ A fun and interactive **Simon Says Game** built using **HTML, CSS, and JavaScrip
 5. If you make a mistake, the game **ends**, and your score is displayed.
 
 
-🚀 Future Improvements
+🚀 Future Improvements :-
 🔹 Add leaderboard for high scores.
 🔹 Implement multiplayer mode.
 🔹 Enhance UI with more themes.
